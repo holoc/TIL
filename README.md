@@ -1,2 +1,3 @@
-# TIL
-This is a collection of short articles about things I have learned.
+# Today I Learn (TIL)
+This is a collection of short write-ups about Things I Learn across a variety of languages and technologies.
+
