@@ -7,12 +7,20 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_0 TILs and counting..._
+_1 TILs and counting..._
 
 ---
 
+### 1 most recent TILs
+
+- [GitHub Actions](Git/GitHub Actions.md) - Sat Apr 25 22:39:36 2020 -0400
+
 ### Categories
 
+- [Git](#Git)
+
+### [Git](#Git)
+- [GitHub Actions](Git/GitHub Actions.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
