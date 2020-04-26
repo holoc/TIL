@@ -13,14 +13,14 @@ _1 TILs and counting..._
 
 ### 1 most recent TILs
 
-- [GitHub Actions](Git/GitHub Actions.md) - Sat Apr 25 22:39:36 2020 -0400
+- [GitHub Actions](Git/GitHub-Actions.md) - Sat Apr 25 22:58:46 2020 -0400
 
 ### Categories
 
 - [Git](#Git)
 
 ### [Git](#Git)
-- [GitHub Actions](Git/GitHub Actions.md)
+- [GitHub Actions](Git/GitHub-Actions.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
