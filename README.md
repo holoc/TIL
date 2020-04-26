@@ -7,20 +7,25 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
+### 2 most recent TILs
 
+- [The learning myth: Why I'll never tell my son he's smart](Life/The-learning-myth-Why-I'll-never-tell-my-son-he's-smart.md) - Sun Apr 26 10:12:46 2020 -0400
 - [GitHub Actions](Git/GitHub-Actions.md) - Sat Apr 25 22:58:46 2020 -0400
 
 ### Categories
 
 - [Git](#Git)
+- [Life](#Life)
 
 ### [Git](#Git)
 - [GitHub Actions](Git/GitHub-Actions.md)
+
+### [Life](#Life)
+- [The learning myth: Why I'll never tell my son he's smart](Life/The-learning-myth-Why-I'll-never-tell-my-son-he's-smart.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
