@@ -1,11 +1,11 @@
 # Automation On Android
 
-[Automate](https://llamalab.com/automate/)
+Android App Used: [Automate](https://llamalab.com/automate/)
 
 Tasker Plugins:
-[AutoInput](https://joaoapps.com/autoinput/)
-[AutoTools](https://joaoapps.com/autotools/)
-[How-To Run AutoInput "UI Query" to grab info](https://www.reddit.com/r/tasker/comments/4nc0xc/how_to_run_a_ui_query_easily_on_any_screen_to/)
+* [AutoInput](https://joaoapps.com/autoinput/)
+* [AutoTools](https://joaoapps.com/autotools/)
+* [How-To Run AutoInput "UI Query" to grab info](https://www.reddit.com/r/tasker/comments/4nc0xc/how_to_run_a_ui_query_easily_on_any_screen_to/)
 
 In searching how to create a pixel bot to automate various redundent tasks on my Android mobile device, I came across a few options to do this, but decided to settle on the Automate app to get the tasks done.
 
